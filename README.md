@@ -1,5 +1,5 @@
 # To-Do List Project 
-This is a simple command-line To-Do List application built using python for managing daily tasks.
+This is a simple console-based To-Do List application built using python for managing daily tasks.
 # Features
 1.Add new tasks
 2.view all tasks
