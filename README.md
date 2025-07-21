@@ -13,7 +13,6 @@ Python
 1.make sure python is installed on your computer.
 2.click the button at the top.
 3.see the output in the terminal panel at the bottom.
-
 # Task 2= Calculator
 This is a simple calculator that performs some basic arithmetic operations like addition,subtraction,multiplication and division.
 # Features
